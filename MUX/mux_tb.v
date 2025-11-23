@@ -16,6 +16,6 @@ module mux_tb;
     sel=0; in0=5'b11001; in1=5'b10010; #10;
     sel=1; in0=5'b01010; in1=5'b11100; #10;
 
-    $finsih;
+    $finish;
   end
 endmodule
